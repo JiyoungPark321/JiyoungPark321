@@ -1,12 +1,13 @@
-### Hi there 👋
-#### I am Jiyoung 😎
+## Hi there 👋 I am Jiyoung 😎
+
+🧚🏻‍♀️ I hope to become a FRONTEND ENGINEER.
 
 
-#### These are my TECH STACK 😆🏊🏻‍♀️🏄🏻‍♀️
-<img src="https://img.shields.io/badge/#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+### These are my TECH STACK 😆🏊🏻‍♀️🏄🏻‍♀️
+<img src="https://img.shields.io/badge/#3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 
-#### Hits!
+### Hits!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiyoungPark321&count_bg=%23E7CE11&title_bg=%239B7400&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
