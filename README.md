@@ -1,10 +1,10 @@
-## Hi there 👋 I am Jiyoung 😎
+### Hi there 👋 I am Jiyoung 😎
 
-🧚🏻‍♀️ I hope to become a FRONTEND ENGINEER.
+#### 🧚🏻‍♀️ I hope to become a FRONTEND ENGINEER.
 
 
-### These are my TECH STACK 😆🏊🏻‍♀️🏄🏻‍♀️
-<img src="https://img.shields.io/badge/#3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+#### These are my TECH STACK 😆🏊🏻‍♀️🏄🏻‍♀️
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
 ### Hits!
