@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayyyoung321@gmail.com)](mailto:jayyyoung321@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:reachgoal321@naver.com)](mailto:reachgoal321@naver.com)
 
-#### 🏊🏻‍♀️ These are my TECH STACK 🏄🏻‍♀️
+#### 🏊🏻‍♀️ my TECH STACK 🏄🏻‍♀️
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
