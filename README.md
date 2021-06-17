@@ -3,7 +3,7 @@
   
 ## Hi there 👋 I am Jiyoung 😎
     
-### 🧚🏻‍♀️ I hope to become a FRONTEND ENGINEER 🧙🏻‍♂️
+<!-- ### 🧚🏻‍♀️ I hope to become a FRONTEND ENGINEER 🧙🏻‍♂️ -->
              
        
 #### 📧 CONTACT ME 🧐
