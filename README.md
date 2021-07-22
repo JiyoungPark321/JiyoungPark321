@@ -1,7 +1,7 @@
 
 <div align="center"> 
   
-## Hi there 👋 I am Jiyoung 😎
+## Hi there 👋 I am Jiyoung 😎 
      
 <!-- ### 🧚🏻‍♀️ I hope to become a FRONTEND ENGINEER 🧙🏻‍♂️ -->
              
